@@ -54,3 +54,15 @@ pip install -r requirements.txt
 - Implement dynamic model updates for adaptability and precision.  
 
 ---  
+
+### Machine Learning Team 🚀👨‍💻  
+
+Meet the dedicated team behind the **Machine Learning (ML) innovations** in the Serabutin app:  
+
+| **Name**           | **Role**                  | **Expertise**                  |  
+|--------------------|--------------------------|--------------------------------|  
+| **Ilham**         | Lead ML Developer        | Computer Vision |  
+| **Hassan**        | ML Researcher            | NLP, Data Preprocessing and Model Optimization  |  
+| **Krisna** | Assistant ML Engineer    | Model Training and Evaluation |
+
+---

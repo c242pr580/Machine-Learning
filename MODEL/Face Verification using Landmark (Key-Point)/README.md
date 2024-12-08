@@ -43,7 +43,7 @@ To run this project, ensure you have the following dependencies installed:
 Install the dependencies using the command:
 
 ```bash
-pip install opencv-python-headless numpy dlib matplotlib
+pip install opencv-python-headless numpy matplotlib
 ```
 
 ---

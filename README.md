@@ -18,11 +18,7 @@ A robust face verification system designed to ensure safety and user identity in
 1. Detect faces in two images.  
 2. Align faces based on landmarks.  
 3. Normalize and compare landmarks.  
-4. Decide match/no match based on distance threshold.  
-
-**Future Enhancements**:  
-- Transition to advanced face detection (e.g., MTCNN).  
-- Integrate deep learning for precise verification.  
+4. Decide match/no match based on distance threshold.   
 
 ---
 
@@ -36,11 +32,7 @@ An NLP-based system to automatically detect and filter illegal or inappropriate 
 **Workflow**:  
 1. Preprocess job descriptions into embeddings.  
 2. Use bidirectional LSTM layers for contextual feature extraction.  
-3. Apply dense layers for binary classification (Legal/Illegal).  
-
-**Future Enhancements**:  
-- Dynamic model updates for evolving legal requirements.  
-- Expand dataset diversity to improve robustness.  
+3. Apply dense layers for binary classification (Legal/Illegal).
 
 ---
 
@@ -62,4 +54,3 @@ pip install -r requirements.txt
 - Implement dynamic model updates for adaptability and precision.  
 
 ---  
-Contributions and suggestions are welcome! 🌟

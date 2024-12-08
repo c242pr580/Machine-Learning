@@ -55,10 +55,6 @@ pip install -r requirements.txt
 
 ---  
 
-Here’s the updated version with a GitHub link included for the Machine Learning team:
-
----
-
 ### Machine Learning Team 🚀👨‍💻  
 
 Meet the dedicated team behind the **Machine Learning (ML) innovations** in the Serabutin app:  

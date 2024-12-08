@@ -55,16 +55,20 @@ pip install -r requirements.txt
 
 ---  
 
+Here’s the updated version with a GitHub link included for the Machine Learning team:
+
+---
+
 ### Machine Learning Team 🚀👨‍💻  
 
 Meet the dedicated team behind the **Machine Learning (ML) innovations** in the Serabutin app:  
 
-| ![Ilham]([relative/path/ilham-photo.jpg](https://github.com/c242pr580/c242pr580/blob/main/image/ilham.png)) | ![Mareta](relative/path/mareta-photo.jpg) | ![Team Member 3](relative/path/team3-photo.jpg) |  
-|:---------------------------------------:|:-----------------------------------------:|:---------------------------------------------:|  
-| **Ilham**                              | **Hassan**                                | **Krisna**                             |  
-| Lead ML Developer                      | ML Researcher                             | Assistant ML Engineer                         |  
-| Face Verification, Model Training| NLP, Data Preprocessing, Optimization, Model Training | Evaluation         |  
-| [GitHub](https://github.com/ilham)      | [GitHub](https://github.com/mareta)        | [GitHub](https://github.com/team-member3)     |  
+| **Name**           | **Role**                  | **Expertise**                  |  
+|--------------------|--------------------------|--------------------------------|  
+| **Ilham**         | Lead ML Developer        | Face Verification, Data Researcher |  
+| **Hassan**        | ML Researcher            | NLP, Data Preprocessing and Model Optimization  |  
+| **Krisno** | Assistant ML Engineer    | Model Training and Evaluation |
 
 *Caption: The minds behind the ML magic in Serabutin.*  
+
 ---

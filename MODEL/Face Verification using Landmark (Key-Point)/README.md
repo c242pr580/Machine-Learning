@@ -38,7 +38,6 @@ To run this project, ensure you have the following dependencies installed:
 - Python 3.x
 - OpenCV
 - NumPy
-- dlib (for facial landmark detection)
 - Matplotlib (optional, for visualization)
 
 Install the dependencies using the command:
@@ -79,18 +78,6 @@ The script will output the following:
 
 ---
 
-## Project Structure
-
-```plaintext
-face-verification-landmarks/
-├── images/                  # Input images directory
-├── models/                  # Models for face alignment
-├── haarcascade/             # Haar Cascade XML files for face detection
-├── utils.py                 # Utility functions for preprocessing and calculations
-├── main.py                  # Main script
-├── requirements.txt         # Required dependencies
-└── README.md                # Project documentation
-```
 
 ---
 

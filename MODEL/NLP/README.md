@@ -39,7 +39,7 @@ The model architecture uses an embedding layer for text representation, followed
 The following dependencies are required:  
 
 - Python 3.8+
-- TensorFlow/Keras
+- tensorflow==2.15.0
 - NumPy
 - Matplotlib
 - Pandas

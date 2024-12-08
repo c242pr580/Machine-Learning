@@ -66,3 +66,27 @@ Meet the dedicated team behind the **Machine Learning (ML) innovations** in the 
 | **Krisna** | Assistant ML Engineer    | Model Training and Evaluation |
 
 ---
+
+Here’s an updated version with individual GitHub links for each team member:
+
+---
+
+### Machine Learning Team 🚀👨‍💻  
+
+Meet the dedicated team behind the **Machine Learning (ML) innovations** in the Serabutin app:  
+
+| ![Ilham](relative/path/ilham-photo.jpg) | ![Mareta](relative/path/mareta-photo.jpg) | ![Team Member 3](relative/path/team3-photo.jpg) |  
+|:---------------------------------------:|:-----------------------------------------:|:---------------------------------------------:|  
+| **Ilham**                              | **Mareta**                                | **Team Member 3**                             |  
+| Lead ML Developer                      | ML Researcher                             | Assistant ML Engineer                         |  
+| Expertise: NLP, Computer Vision, Cloud | Expertise: Data Preprocessing, Optimization | Expertise: Model Training, Evaluation         |  
+| [GitHub](https://github.com/ilham)      | [GitHub](https://github.com/mareta)        | [GitHub](https://github.com/team-member3)     |  
+
+*Caption: The minds behind the ML magic in Serabutin.*  
+
+### GitHub Repository  
+For more details on the ML models and code, visit our [Serabutin ML GitHub repository](https://github.com/your-repository-link).
+
+---
+
+Replace the placeholders for the GitHub profile links and image paths with the actual URLs for each member's profile and the respective images.

@@ -93,7 +93,7 @@ The following dependencies are required:
 ### 1. Setting up the Project
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/c242pr580/Machine-Learning.git
    ```
 2. Install the required dependencies:
    ```bash

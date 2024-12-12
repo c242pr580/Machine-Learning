@@ -59,9 +59,13 @@ The following dependencies are required:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository.git
+   git clone https://github.com/c242pr580/Machine-Learning.git
    ```
 2. Install the required dependencies:
+   ```bash
+   cd NLP
+   ```
+3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
@@ -91,7 +95,15 @@ The following dependencies are required:
    ```bash
    git clone <repository-url>
    ```
-2. Ensure the `model.json` and `vocab.txt` files are in the same directory as the HTML file.
+2. Install the required dependencies:
+   ```bash
+   cd NLP
+   ```
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Ensure the `model.json` and `vocab.txt` files are in the same directory as the HTML file.
 
 ### 2. Running the Demo
 1. Open the `tes_model_Tfjs.html` file in a web browser.
